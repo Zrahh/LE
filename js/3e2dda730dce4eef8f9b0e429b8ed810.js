@@ -1,0 +1,1 @@
+function lwlhitokoto(){document.write("一念起，万水千山");}
